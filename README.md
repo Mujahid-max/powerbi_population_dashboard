@@ -1,5 +1,6 @@
 🌍 POPULATION-Dashboard
 
+![Dashboard perview](https://github.com/Mujahid-max/powerbi_population_dashboard/blob/main/Screenshot%202024-12-24%20011345.png?raw=true)
 
 
 🔍 Population Distribution of India - 2011 Census
