@@ -11,7 +11,7 @@ The 2011 Census of India provides a comprehensive snapshot of the population dis
 
 🔹 Key Highlights
 
-📊 Total Population:
+### 📊 Total Population:
 
 • Urban Population: 377 million (31.16%) 🌆• Rural Population: 833 million (68.84%) 🌿
 
